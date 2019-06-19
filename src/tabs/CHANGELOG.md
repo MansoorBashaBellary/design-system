@@ -1,3 +1,16 @@
+<a name="1.0.7"></a>
+## [1.0.7](https://github.com/MansoorBashaBellary/monorepo/compare/v1.0.4...v1.0.7) (2019-06-19)
+
+
+### Features
+
+* **design-system:** commit 5 ([38985e4](https://github.com/MansoorBashaBellary/monorepo/commit/38985e4))
+* **design-system:** commit 5 ([3e73e55](https://github.com/MansoorBashaBellary/monorepo/commit/3e73e55))
+* **design-system:** commit 5 ([8f7095f](https://github.com/MansoorBashaBellary/monorepo/commit/8f7095f))
+* **design-system:** commit 5 ([c1af26f](https://github.com/MansoorBashaBellary/monorepo/commit/c1af26f))
+
+
+
 <a name="1.0.6"></a>
 ## [1.0.6](https://github.com/MansoorBashaBellary/monorepo/compare/v1.0.4...v1.0.6) (2019-06-19)
 
