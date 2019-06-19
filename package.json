@@ -32,14 +32,8 @@
         "prettier --write",
         "eslint --no-ignore",
         "git add"
-      ],
-      "**/*.{scss,sass}": [
-        "sass-lint -v"
       ]
-    },
-    "ignore": [
-      "src/js-lib/vendor/**"
-    ]
+    }
   },
   "commitlint": {
     "extends": [
