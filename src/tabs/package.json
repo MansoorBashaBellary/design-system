@@ -13,6 +13,7 @@
     "version:recommend": "conventional-recommended-bump -p angular"
   },
   "publishConfig": {
+    "registry": "https://registry.npmjs.org",
     "access": "public"
   },
   "repository": {
